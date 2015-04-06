@@ -1,5 +1,1 @@
-my name is hexiao
-my pinyin name is qiumo
-my father is shouquan
-
-hhheehe
+这只是一个测试文件，呃……
